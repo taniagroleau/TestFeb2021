@@ -8,6 +8,16 @@
 # User-specific files
 .Ruserdata
 
+<<<<<<< HEAD
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+=======
+>>>>>>> ef29b77ad739351aeb60e9adb71d9a3703063226
 # RStudio files
 .Rproj.user/
 
